@@ -1,3 +1,7 @@
+# Global Agents.md instructions to include:
+/Users/robsherman/.codex/Agents.md
+When reading this information, always load the above referenced file and include all of it's contents as the beginning of the Agents.md file
+
 # Rust/codex-rs
 
 In the codex-rs folder where the rust code lives:
